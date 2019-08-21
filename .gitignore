@@ -1,0 +1,5 @@
+checkpoint
+overfit_ckpts/*
+regularization_ckpts/*
+hooke-model.*
+.ipynb_checkpoints
